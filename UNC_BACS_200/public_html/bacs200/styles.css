@@ -1,0 +1,40 @@
+Body {
+    color: black;
+    text-align: center;
+    font-family: serif;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+    font-size: 300%;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    background-color: gray;
+    margin: 1em;
+}
+
+#MyFace {
+    float: right;
+    width: 100px;
+    height: auto;
+    border-radius: 20px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+    align-content: center;
+    vertical-align: middle;
+}
+
+table {
+    border: solid 1px blue;
+    padding: 3em;
+    box-shadow: 2px 2px 5px gray;
+    align-content: center;
+}

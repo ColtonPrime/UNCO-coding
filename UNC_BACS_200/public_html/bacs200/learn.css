@@ -1,0 +1,56 @@
+nav {
+    text-align: center;
+
+}
+
+
+
+
+body {
+    color: black;
+    text-align: center;
+    font-family: serif;
+    background-color: white;
+    background-image: url("pictures/grasslands.png");
+    background-size: 150%;
+
+}
+
+div {
+    background-color: gray;
+    align-content: center;
+}
+
+header {}
+
+main {}
+
+footer {}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 300%;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    background-color: gray;
+    margin: 1em;
+}
+
+
+img {
+    width: 50px;
+    height: auto;
+}
+
+#titlepic {
+
+    width: 100px;
+    height: auto;
+
+}
+
+table {}
