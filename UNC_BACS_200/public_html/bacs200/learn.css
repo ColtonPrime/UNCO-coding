@@ -16,6 +16,11 @@ body {
 
 }
 
+nav {
+    float: left;
+    background-color: gray;
+}
+
 div {
     background-color: gray;
     align-content: center;
