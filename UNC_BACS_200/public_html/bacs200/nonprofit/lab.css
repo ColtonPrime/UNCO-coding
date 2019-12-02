@@ -3,8 +3,8 @@ nav {
     color: whitesmoke;
     font-size: 50;
     list-style-type: none;
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
     background-color: slategray;
     width: 250px;
 
@@ -18,10 +18,17 @@ body {
     color: whitesmoke;
     text-align: center;
     font-family: serif;
-    background-color: green;
+    background-color: lightslategray;
     background-image: url(".png");
     background-size: 100%;
 
+}
+
+div {
+
+    word-spacing: normal;
+    word-wrap: normal;
+    margin: 50px;
 }
 
 header {}
@@ -43,10 +50,19 @@ h2 {
     margin: 1em;
 }
 
+h3 {
+
+    font-size: 200%;
+}
+
 
 img {
-    width: 50px;
+    width: 300px;
     height: auto;
+}
+
+#thoughts {
+    padding-bottom: 50px
 }
 
 #titlepic {
